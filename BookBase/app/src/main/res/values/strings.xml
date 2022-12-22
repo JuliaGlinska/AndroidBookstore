@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BOOK booking for bookworms</string>
+    <string name="add_book">Dodaj książkę do bazy danych</string>
+    <string name="order_book">Złóż zamówienie</string>
+    <string name="show_orders">Moje zamówienia</string>
+    <string name="author_info">Autor</string>
+    <string name="lang">Zmień język</string>
+</resources>
